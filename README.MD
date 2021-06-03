@@ -1,4 +1,4 @@
-# Easy Transliteration example
+# Easy Transliteration example on Java
 
 Transliteration example using icu4j libs
 Maven dependency:
