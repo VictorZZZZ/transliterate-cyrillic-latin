@@ -4,7 +4,7 @@ import com.ibm.icu.text.Transliterator;
 
 import java.util.Enumeration;
 
-public class Translit {
+public class TransliterationExample {
 
     public static void main(String[] args) {
         String input_ru = "Привет Мир";
