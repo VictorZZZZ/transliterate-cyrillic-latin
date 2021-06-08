@@ -1,6 +1,6 @@
-# Easy Transliteration example on Java
+# Transliteration on Java
 
-Transliteration example using icu4j libs
+Transliteration using icu4j libs 
 Maven dependency:
 ```
         <dependency>
@@ -8,4 +8,10 @@ Maven dependency:
             <artifactId>icu4j</artifactId>
             <version>69.1</version>
         </dependency>
+```
+
+To do transliteration just call static method:
+
+```
+TranslitUtil.transliterate("Съешь ещё этих мягких булок")
 ```
