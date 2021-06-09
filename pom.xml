@@ -4,9 +4,35 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.zvv</groupId>
+    <groupId>io.github.victorzzzz</groupId>
     <artifactId>transliterator</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <name>Transliterator</name>
+    <description>Transliteration tool. Easy translit from cyrillic to latin</description>
+    <url>https://github.com/VictorZZZZ/transliterate-cyrillic-latin</url>
+
+    <licenses>
+        <license>
+            <name>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</name>
+            <url>https://www.gnu.org/licenses/gpl-3.0.html</url>
+            <distribution>html</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/VictorZZZZ/transliterate-cyrillic-latin</url>
+        <connection>scm:hg:https://github.com/VictorZZZZ/transliterate-cyrillic-latin</connection>
+    </scm>
+
+    <developers>
+        <developer>
+            <id>owner</id>
+            <name>Victor Zalevski</name>
+            <email>zvictormail@gmail.com</email>
+            <timezone>GMT+0300</timezone>
+        </developer>
+    </developers>
 
     <properties>
         <maven.compiler.source>14</maven.compiler.source>
