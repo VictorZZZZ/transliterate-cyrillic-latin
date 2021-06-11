@@ -1,12 +1,13 @@
 # Transliteration on Java
 
 Transliteration using icu4j libs 
-Maven dependency:
+
+To use this library add dependency to your pom file:
 ```
         <dependency>
-            <groupId>com.ibm.icu</groupId>
-            <artifactId>icu4j</artifactId>
-            <version>69.1</version>
+            <groupId>io.github.victorzzzz</groupId>
+            <artifactId>transliterator</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
 ```
 
