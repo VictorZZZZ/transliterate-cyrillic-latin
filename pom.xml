@@ -15,7 +15,7 @@
     <packaging>jar</packaging>
     <name>Transliterator</name>
     <description>Transliteration tool. Easy translit from cyrillic to latin</description>
-    <url>https://github.com/VictorZZZZ/transliterate-cyrillic-latin</url>
+    <url>git@github.com:VictorZZZZ/transliterate-cyrillic-latin.git</url>
 
     <licenses>
         <license>
@@ -27,10 +27,10 @@
 
     <scm>
         <url>https://github.com/VictorZZZZ/transliterate-cyrillic-latin</url>
-        <connection>scm:git:https://github.com/VictorZZZZ/transliterate-cyrillic-latin</connection>
-        <developerConnection>scm:git:https://github.com/VictorZZZZ/transliterate-cyrillic-latin</developerConnection>
-      <tag>transliterator-1.1</tag>
-  </scm>
+        <connection>scm:git@github.com:VictorZZZZ/transliterate-cyrillic-latin.git</connection>
+        <developerConnection>scm:git@github.com:VictorZZZZ/transliterate-cyrillic-latin.git</developerConnection>
+        <tag>transliterator-1.1</tag>
+    </scm>
 
     <developers>
         <developer>
