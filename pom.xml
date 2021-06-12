@@ -11,7 +11,7 @@
 
     <groupId>io.github.victorzzzz</groupId>
     <artifactId>transliterator</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
     <name>Transliterator</name>
     <description>Transliteration tool. Easy translit from cyrillic to latin</description>
@@ -29,7 +29,8 @@
         <url>https://github.com/VictorZZZZ/transliterate-cyrillic-latin</url>
         <connection>scm:git:https://github.com/VictorZZZZ/transliterate-cyrillic-latin</connection>
         <developerConnection>scm:git:https://github.com/VictorZZZZ/transliterate-cyrillic-latin</developerConnection>
-    </scm>
+      <tag>transliterator-1.1</tag>
+  </scm>
 
     <developers>
         <developer>
