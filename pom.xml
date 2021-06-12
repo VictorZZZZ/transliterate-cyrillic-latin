@@ -6,12 +6,12 @@
     <parent>
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
-        <version>7</version>
+        <version>9</version>
     </parent>
 
     <groupId>io.github.victorzzzz</groupId>
     <artifactId>transliterator</artifactId>
-    <version>1.2</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Transliterator</name>
     <description>Transliteration tool. Easy translit from cyrillic to latin</description>
@@ -26,10 +26,10 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/VictorZZZZ/transliterate-cyrillic-latin</url>
-        <connection>scm:git:https://github.com/VictorZZZZ/transliterate-cyrillic-latin</connection>
-        <developerConnection>scm:git:https://github.com/VictorZZZZ/transliterate-cyrillic-latin</developerConnection>
-        <tag>transliterator-1.2</tag>
+        <url>git@github.com:VictorZZZZ/transliterate-cyrillic-latin.git</url>
+        <connection>scm:git:git@github.com:VictorZZZZ/transliterate-cyrillic-latin.git</connection>
+        <developerConnection>scm:git:git@github.com:VictorZZZZ/transliterate-cyrillic-latin.git</developerConnection>
+        <tag>transliterator-1.1</tag>
     </scm>
 
     <developers>
