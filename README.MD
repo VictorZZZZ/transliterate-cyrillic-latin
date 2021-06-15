@@ -7,7 +7,7 @@ To use this library add dependency to your pom file:
         <dependency>
             <groupId>io.github.victorzzzz</groupId>
             <artifactId>transliterator</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.1</version>
         </dependency>
 ```
 
